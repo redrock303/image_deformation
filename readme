@@ -1,0 +1,7 @@
+总共实现了四种形变算法，结果保持在data目录下
+一、基于控制顶点的图像形变
+1.affine_mls_interpolation.py 仿射变换
+2.sim_mls_interpolation.py 相似变换
+3.arigid_mls_interpolation.py 刚性变换
+二、基于线段的图像形变
+af_line_mls_old.py
