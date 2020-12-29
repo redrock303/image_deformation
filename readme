@@ -5,3 +5,12 @@
 3.arigid_mls_interpolation.py 刚性变换
 二、基于线段的图像形变
 af_line_mls_old.py
+
+参考论文
+@incollection{schaefer2006image,
+  title={Image deformation using moving least squares},
+  author={Schaefer, Scott and McPhail, Travis and Warren, Joe},
+  booktitle={ACM SIGGRAPH 2006 Papers},
+  pages={533--540},
+  year={2006}
+}
